@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Искусственный интеллект
+  - Разработка программного обеспечения
+  - Кибербезопасность
+  - Игры
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю прикладную информатику, интересуюсь разработкой ПО, алгоритмами и кибербезопасностью.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,44 +55,47 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Изучаю программирование, структуры данных и методы защиты информации.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Хард скиллы
     items:
-      - name: Python
-        description: ''
-        percent: 60
+      - name: C++
+        description: Программирование на C++ для создания приложений
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: JavaScript
+        description: Разработка веб-приложений
+        percent: 60
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Кибербезопасность
+        description: Основы защиты данных и сетевой безопасности
+        percent: 50
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Программирование
+        description: Разработка собственных проектов
+        percent: 90
+      - name: Видеоигры
+        description: Игры как хобби и способ расслабления
         percent: 80
+      - name: Спортивные тренировки
+        description: Поддерживаю физическую форму
+        percent: 70
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 70
+  - name: Арабский
+    percent: 80
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
